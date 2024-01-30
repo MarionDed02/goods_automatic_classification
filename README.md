@@ -1,6 +1,6 @@
 # Classification automatique de biens de consommation
 
-![Capture d’écran](Images/Capture%20d’écran%202023-12-13%20à%2013.20.04.png)
+![Capture d’écran](Capture%20d’écran%202023-12-13%20à%2013.20.04.png)
 
 ## Contexte
 
